@@ -1,7 +1,7 @@
 import Feed from "./components/feed/Feed"
-import Topbar from "./components/feed/topbar/Topbar"
 import "./app.css"
 import Sidebar from "./components/sidebar/Sidebar"
+import Topbar from "./components/topbar/Topbar"
 function App() {
   return (
     <>
